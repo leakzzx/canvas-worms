@@ -4,6 +4,10 @@ body {
   align-items: center;
   height: 100vh;
   background: #222;
+  flex-direction: column;
+  gap: 20px;
+  margin: 0;
+  font-family: Arial, sans-serif;
 }
 canvas {
   background: #111;
